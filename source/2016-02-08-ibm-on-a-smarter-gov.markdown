@@ -1,3 +1,11 @@
+---
+title: IBM on a Smarter Government and Why Data is Amazing
+date: 2016-02-08 17:43 UTC
+tags:
+author: Amber Crawford
+layout: post
+---
+
 ## IBM on a Smarter Government and Why Data is Amazing
 ### What is Watson?
 
